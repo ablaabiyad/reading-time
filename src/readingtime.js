@@ -255,7 +255,7 @@ Licensed under the MIT license
         break;
 			// default s.lang in english
 			default:
-        lessThanAMinute = s.lessThanAMinuteString || '1 minute';
+        lessThanAMinute = s.lessThanAMinuteString || 'Less than a minute';
         minShortForm = 'min';
     }
 
